@@ -1,0 +1,48 @@
+* {
+    font: normal 18pt Arial;
+}
+
+body {
+    background-color: rgb(84, 90, 95);
+
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30pt;
+    font-weight: bold;
+    color: white;
+}
+
+#middle_block {
+    margin-inline: auto;
+
+    border: none;
+    border-radius: 10px;
+
+    background: white;
+    width: 50%;
+   
+    padding: 15px;
+
+    box-shadow: 1px 5px 5px ;
+}
+
+#time {
+    font-weight: bold;
+    margin: 0;
+
+    padding-bottom: 15px;
+}
+
+#img {
+    border-radius: 50%;
+    height: 250px;
+    width: 300px;
+}
+
+footer p{
+    color: white;
+    font-style: italic;
+}
